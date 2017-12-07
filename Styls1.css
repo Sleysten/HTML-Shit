@@ -5,15 +5,27 @@ background-image:url("wolf_1.jpg");
 }
 .wulf {
 border-style: solid;
-background-color: rgb(99, 11, 199);
+background-color: rgb(134, 100, 173);
 }
 
 .user1 {
     font-size: 12px;
 }
 
-.mirko {
+.user1 {
 border-style: solid;
+background-color: rgb(55, 206, 38); 
+width: 120px;
 
 }
 
+.mirko2 {
+    border-style: solid;
+    background-color: rgb(191, 226, 95); 
+    width: 130px; 
+}
+.domain {
+    border-style: solid;
+    background-color: rgb(95, 81, 131); 
+    width: 180px;
+}
