@@ -29,3 +29,8 @@ width: 120px;
     background-color: rgb(95, 81, 131); 
     width: 180px;
 }
+.user2 {
+    border-style: solid;
+    background-color: rgb(124, 117, 145); 
+    width: 400px;
+}
