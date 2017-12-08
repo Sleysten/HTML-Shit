@@ -47,3 +47,21 @@ width: 120px;
     text-indent: 4px;
     
 }
+.hallo3 {
+    position: absolute;
+    left: 20px;
+    top: 800px;
+    z-index: -1;
+}
+.user3 {
+    border-style: solid;
+    background-color: rgb(124, 117, 145); 
+    width: 400px;
+    height: 180px;
+    width: 50%;
+    position: absolute;
+    left: 40px;
+    top: 900px;
+    z-index: -1;
+    text-indent: 12px;
+}
