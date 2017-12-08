@@ -34,3 +34,16 @@ width: 120px;
     background-color: rgb(124, 117, 145); 
     width: 400px;
 }
+.simon  {
+    border-style: solid;
+    background-color: rgb(124, 117, 145); 
+    width: 100px;
+    height: 100px;
+    width: 50%;
+    position: absolute;
+    left: 40px;
+    top: 650px;
+    z-index: -1;
+    text-indent: 4px;
+    
+}
