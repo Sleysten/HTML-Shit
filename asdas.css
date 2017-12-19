@@ -5,4 +5,15 @@
     text-decoration: underline;
     letter-spacing: 3px;
 }
-
+.Simon {
+    background-image: url('rm0xlNpI_400x400.jpg');
+    position: relative ; 
+    width: 100px;
+    height: 100px;
+    background-color: white ;
+    background-size: 100% 100%;
+    display: inline-block;
+    border-radius: 50%;
+    top: 50%;
+    right:0px;
+}
